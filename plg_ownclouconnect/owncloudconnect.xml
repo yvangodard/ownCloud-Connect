@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="user">
+	<name>plg_user_owncloudconnect</name>
+	<author>Jérôme LAFFORGUE</author>
+	<creationDate>Novembre 2014</creationDate>
+	<version>0.0.1</version>
+	<description>PLG_USER_OWNCLOUDCONNECT_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="owncloudconnect">owncloudconnect.php</filename>
+		<filename>index.html</filename>
+	</files>
+	 <languages>
+		<language tag="fr-FR">language/fr-FR/fr-FR.plg_user_owncloudconnect.ini</language>
+		<language tag="fr-FR">language/fr-FR/fr-FR.plg_user_owncloudconnect.sys.ini</language>
+    </languages>
+</extension>

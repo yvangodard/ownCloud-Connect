@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<access component="com_owncloudconnect">
+	<section name="component">
+		 <action name="core.admin" title="OWNCLOUDCONNECT_ACL_ADMIN_TITLE" description="OWNCLOUDCONNECT_ACL_ADMIN_DESC" />
+         <action name="core.manage" title="JACTION_MANAGE" description="JACTION_MANAGE_COMPONENT_DESC" />
+	</section>
+</access>
